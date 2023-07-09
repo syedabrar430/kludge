@@ -4,5 +4,4 @@
  you'll obtain a text file named txt.txt
 
 3. The text file txt.txt contains characters in the Base64 format.
-
 4. Decode it to obtain the flag kludgeCTF{h1dd3n_g3m5_4w41t_3619572}
