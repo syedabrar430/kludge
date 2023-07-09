@@ -1,2 +1,5 @@
 # kludge
-The flag format is kludgeCTF{..........}
+Fing the hidden flag in this image.
+Download the image here 
+
+Flag Ofrmat: kludgeCTF{..........}
