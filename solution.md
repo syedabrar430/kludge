@@ -1,3 +1,5 @@
+#Solution
+
 1. Download the image
 
 2. Use steghide extract -sf moose.jpeg, you'll require a passphrase which's present in a text file along with the other files and then 
